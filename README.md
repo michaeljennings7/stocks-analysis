@@ -4,12 +4,14 @@ The purpose of this analysis in terms of the activity is to help a friend determ
 
 ## Results
 
-After analysis it looked like the year 2017 was a much more successfull year for most of the stocks in this dataset as shown by the screenshots below.
+After analysis it looked like the year 2017 was a much more successfull year for most of the stocks in this dataset as shown by the screenshots below:
 
 ### 2017
-<img width="311" alt="Screen Shot 2022-04-10 at 7 45 24 PM" src="https://user-images.githubusercontent.com/23485764/162660969-5635977d-a881-43fd-a3ea-240023409855.png">
-### 2018
 <img width="291" alt="Screen Shot 2022-04-10 at 7 45 44 PM" src="https://user-images.githubusercontent.com/23485764/162660971-95623c3e-cddb-48aa-b1bd-9ec37f4903d9.png">
+
+### 2018
+<img width="311" alt="Screen Shot 2022-04-10 at 7 45 24 PM" src="https://user-images.githubusercontent.com/23485764/162660969-5635977d-a881-43fd-a3ea-240023409855.png">
+
 
 During exercises that led to this outcome, I was able to dive deep into the data gain meaningful insights about key factors including starting price, ending price and net returns on the 12 companies highlighted by this dataset.  
 
